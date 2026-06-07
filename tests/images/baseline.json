@@ -1,0 +1,6 @@
+{
+  "test_fitting.test_get_expdata_detach_1um": "e85c8144e4a21862b66d5582443ed7d168ecdf0ee4071edad1ad446226244473",
+  "test_fitting.test_get_expdata_detach_100um": "64c688ee9b088cac8baf49bbd97e9520c00b63bd6ea15e1c3c5cf58e8829a1d0",
+  "test_fitting.test_get_expdata_dwell_1um": "ddd1a1c5625a53f56b563200b6cfa8bd7cf4997b42bca6970063dcce6831384a",
+  "test_fitting.test_get_expdata_dwell_100um": "adc212ef8031a05a20cd12c04d78582e27804639fc546d9b178629d6ecd452a3"
+}
